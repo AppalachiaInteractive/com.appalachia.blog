@@ -6,9 +6,8 @@ menu_order: 0
 taxonomy:
     category: "studio"
     post_tag:
-        - news
         - studio
-        - test
+        - news
 custom_fields:
     image_header: "/_images/social-post_and-were-live_header.png"
     image_twitter: "/_images/social-post_and-were-live_twitter.png"
