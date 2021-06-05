@@ -1,17 +1,16 @@
 ---
-title: And We're Live!
+title: "And We're Live!"
 post_status: publish
-post_excerpt: Hello from Chris and Janice!  We're finally launching the Appalachia Interactive site, along with this blog.  Stay tuned as we document both the growth of our studio, as well as the development of Keepers Of Creation.
+post_excerpt: "Hello from Chris and Janice!  We're finally launching the Appalachia Interactive site, along with this blog.  Stay tuned as we document both the growth of our studio, as well as the development of Keepers Of Creation."
 menu_order: 0
 taxonomy:
     category: studio
-    tag: studio
     tag: news
 custom_fields:
-    image_header:  /_images/social-post_and-were-live_header.png
-    image_twitter: /_images/social-post_and-were-live_twitter.png
-    image_wordpress: /_images/social-post_and-were-live_wordpress.png
-    image_instagram: /_images/social-post_and-were-live_instagram.png
+    image_header: "/_images/social-post_and-were-live_header.png"
+    image_twitter: "/_images/social-post_and-were-live_twitter.png"
+    image_wordpress: "/_images/social-post_and-were-live_wordpress.png"
+    image_instagram: "/_images/social-post_and-were-live_instagram.png"
 
 
 ---
