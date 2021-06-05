@@ -6,7 +6,7 @@ menu_order: 0
 taxonomy:
     category:
         - studio
-    tags: 
+    tag: 
         - news
         - studio
 custom_fields:
