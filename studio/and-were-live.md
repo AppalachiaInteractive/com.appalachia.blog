@@ -4,11 +4,8 @@ post_status: publish
 post_excerpt: "Hello from Chris and Janice!  We're finally launching the Appalachia Interactive site, along with this blog.  Stay tuned as we document both the growth of our studio, as well as the development of Keepers Of Creation."
 menu_order: 0
 taxonomy:
-    category:
-        - studio
-    tag: 
-        - news
-        - studio
+    category: "studio"
+    post_tag: "news,studio"
 custom_fields:
     image_header: "/_images/social-post_and-were-live_header.png"
     image_twitter: "/_images/social-post_and-were-live_twitter.png"
