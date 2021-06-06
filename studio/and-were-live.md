@@ -8,11 +8,6 @@ taxonomy:
     post_tag:
         - studio
         - news
-custom_fields:
-    image_header: "/_images/social-post_and-were-live_header.png"
-    image_twitter: "/_images/social-post_and-were-live_twitter.png"
-    image_wordpress: "/_images/social-post_and-were-live_wordpress.png"
-    image_instagram: "/_images/social-post_and-were-live_instagram.png"
 
 
 ---
