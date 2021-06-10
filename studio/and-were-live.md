@@ -9,7 +9,6 @@ taxonomy:
         - studio
         - news
 
-
 ---
 
 Hello from Chris and Janice!  We're finally launching the Appalachia Interactive site, along with this blog.  Stay tuned as we document both the growth of our studio, as well as the development of [Keepers Of Creation](https://keepersofcreation.com).
